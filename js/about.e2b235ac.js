@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkresultadosdamega"]=self["webpackChunkresultadosdamega"]||[]).push([[443],{7381:function(a,e,n){n.r(e),n.d(e,{default:function(){return l}});var s=n(3396);const u={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),r=[t];function c(a,e){return(0,s.wg)(),(0,s.iD)("div",u,r)}var o=n(89);const d={},i=(0,o.Z)(d,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.e2b235ac.js.map
